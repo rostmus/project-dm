@@ -13,3 +13,4 @@ runtime-config.json
 *.sln
 *.sw?
 
+dist
