@@ -1,0 +1,12 @@
+.test {
+	color: green;
+
+	&__block {
+		width: 100px;
+		height: 100px;
+		padding: 20px;
+		border: 1px solid $gray;
+		border-radius: 18px;
+		margin: 20px;
+	}
+}
