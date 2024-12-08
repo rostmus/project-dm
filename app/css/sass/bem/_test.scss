@@ -8,7 +8,7 @@
 		border: 1px solid $gray;
 		border-radius: 18px;
 		margin: 20px;
-		animation: ease-in-out 8s infinite Siska;
+		// animation: ease-in-out 8s infinite Siska;
 		position: absolute;
 
 		img {
@@ -63,4 +63,10 @@
 		top: 1920px;
 		left: 1920px;
 	}
+}
+.one {
+	max-width: 100%;
+  vertical-align: middle;
+  width: 290px;
+  height: 120px;
 }
